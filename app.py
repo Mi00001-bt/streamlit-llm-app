@@ -83,7 +83,7 @@ def main():
         page_icon="💬",
     )
 
-    st.title("💬 専門家チャット Web アプリ（LangChain + Streamlit）")
+    st.title("💬 専門家チャットWebアプリ")
 
     # アプリの概要・操作方法
     st.markdown(
